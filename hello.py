@@ -5,3 +5,5 @@ print("hello world")
 # master clone 가져와 커밋
 
 # master last
+
+# pull 사용
