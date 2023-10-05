@@ -7,3 +7,5 @@ print("hello world")
 # master last
 
 # pull 사용
+
+# 복습
