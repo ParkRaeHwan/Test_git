@@ -10,6 +10,6 @@ print("hello world")
 
 # 복습
 
-# 다시 복습
-
 # 원격 저장소에 push
+
+# ssh test
